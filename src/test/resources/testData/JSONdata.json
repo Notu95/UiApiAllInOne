@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Krishna",
+    "lastName": "Yadav",
+    "gender": "Male",
+    "age": 16,
+    "subjects": ["Flute", "Go-Palan", "Being Friend", "Sammohan"]
+  },
+  {
+    "firstName": "Radha",
+    "lastName": "Kumari",
+    "gender": "Female",
+    "age": 14,
+    "subjects": ["Gardening", "Puja", "Bhakti", "Sewa"]
+  }
+]
